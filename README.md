@@ -1,6 +1,6 @@
 # SportsTicketing
 
-## Java + Oracle DB 사용 미니 프로젝트
+### [Java + Oracle DB 사용 미니 프로젝트
 
 ### [프로젝트 주제]
 스포츠 경기 티켓 예약 프로그램
